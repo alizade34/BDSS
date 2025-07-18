@@ -1,0 +1,96 @@
+{
+  "states": {
+    "S_0": {
+      "visits": 150,
+      "is_initial": true,
+      "is_final": false
+    },
+    "S_1": {
+      "visits": 150,
+      "is_initial": false,
+      "is_final": false
+    },
+    "S_2": {
+      "visits": 150,
+      "is_initial": false,
+      "is_final": false
+    },
+    "S_3": {
+      "visits": 150,
+      "is_initial": false,
+      "is_final": false
+    },
+    "S_4": {
+      "visits": 150,
+      "is_initial": false,
+      "is_final": false
+    },
+    "S_5": {
+      "visits": 112,
+      "is_initial": false,
+      "is_final": false
+    },
+    "S_6": {
+      "visits": 51,
+      "is_initial": false,
+      "is_final": false
+    },
+    "S_7": {
+      "visits": 51,
+      "is_initial": false,
+      "is_final": false
+    },
+    "S_8": {
+      "visits": 51,
+      "is_initial": false,
+      "is_final": false
+    },
+    "S_9": {
+      "visits": 51,
+      "is_initial": false,
+      "is_final": false
+    },
+    "S_10": {
+      "visits": 61,
+      "is_initial": false,
+      "is_final": false
+    },
+    "S_11": {
+      "visits": 89,
+      "is_initial": false,
+      "is_final": false
+    },
+    "S_12": {
+      "visits": 89,
+      "is_initial": false,
+      "is_final": false
+    },
+    "S_13": {
+      "visits": 89,
+      "is_initial": false,
+      "is_final": false
+    }
+  },
+  "state_probabilities": {
+    "S_0": 0.10760401721664276,
+    "S_1": 0.10760401721664276,
+    "S_2": 0.10760401721664276,
+    "S_3": 0.10760401721664276,
+    "S_4": 0.10760401721664276,
+    "S_5": 0.08034433285509325,
+    "S_6": 0.036585365853658534,
+    "S_7": 0.036585365853658534,
+    "S_8": 0.036585365853658534,
+    "S_9": 0.036585365853658534,
+    "S_10": 0.04375896700143472,
+    "S_11": 0.06384505021520803,
+    "S_12": 0.06384505021520803,
+    "S_13": 0.06384505021520803
+  },
+  "statistics": {
+    "total_states": 14,
+    "initial_states": 1,
+    "final_states": 0,
+    "total_transitions": 15
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "univariate_accuracy": 1.0,
+  "multivariate_accuracy": 1.0,
+  "distance_function_results": {
+    "euclidean": 1.0,
+    "manhattan": 1.0,
+    "correlation": 1.0
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "total_cases": 150,
+  "total_events": 1244,
+  "avg_case_length": 8.293333333333333,
+  "case_length_std": 1.9646085617483309,
+  "min_case_length": 6,
+  "max_case_length": 11,
+  "unique_activities": 9,
+  "unique_resources": 5,
+  "activity_distribution": {
+    "Analyze": 201,
+    "Review": 201,
+    "Start": 150,
+    "Register": 150,
+    "End": 150,
+    "Approve": 140,
+    "Complete": 140,
+    "Reject": 61,
+    "Rework": 51
+  },
+  "resource_distribution": {
+    "Resource_2": 265,
+    "Resource_1": 252,
+    "Resource_5": 251,
+    "Resource_3": 243,
+    "Resource_4": 233
+  },
+  "timestamp_range": {
+    "start": "2024-07-19 12:52:28.341096",
+    "end": "2025-07-17 00:22:15.219455"
+  }
+}

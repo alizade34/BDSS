@@ -1,0 +1,2 @@
+Project,Date,Dataset_Size,Attributes,Algorithms_Implemented,Total_Itemsets,Frontier_Itemsets,Association_Rules,High_Quality_Rules,Execution_Time,Support_Threshold,Confidence_Threshold,Status
+Quantitative Association Rule Mining,2025-07-18,50,3,3,893,438,1069,20,0.8175463676452637,0.3,0.8,COMPLETE
